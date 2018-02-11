@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=cutentr
+Icon=cutentr
+Type=Application
+Terminal=false
+Name=cuteNTR
+GenericName=3DS streaming client for NTR CFW
+Categories=Game;
