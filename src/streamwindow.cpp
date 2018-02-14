@@ -100,7 +100,7 @@ void StreamWindow::updateSettings()
         scale = config.value(CFG_BSCALE, DEF_BSCALE).toDouble();
     setMaximumSize(b_size*scale);
     setMinimumSize(b_size*scale);
-    resize(b_size*scale);
+    //resize(b_size*scale);
     if (active && scale > 0)
         show();
     else
